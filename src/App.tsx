@@ -4,6 +4,7 @@ import "./App.css";
 import Menu from "./components/menu";
 // import { Home } from "./pages";
 import Start from "./pages/start";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Header />
       {/* <Home /> */}
       <Start />
+      <Footer />
     </div>
   );
 }

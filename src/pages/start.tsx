@@ -21,8 +21,7 @@ export default function Start() {
       <section className="grid grid-cols-2 mt-10 p-5">
         <div className="pr-4">
           <img
-            className="rounded-lg"
-            width={"100%"}
+            className="rounded-lg w-40"
             src="https://picsum.photos/id/237/200/300"
           />
         </div>
@@ -69,7 +68,7 @@ export default function Start() {
         />
         <div className="pt-20 pb-20 mx-auto px-4">
           <div className="flex-row flex grid-cols-2 p-2">
-            <div className="w-half p-5 flex h-52 bg-gray-700 items-center text-center place-items-center text-white">
+            <div className="w-half p-5 flex h-52 rounded-lg bg-gray-700 items-center text-center place-items-center text-white">
               <div>
                 <h3 className="w-full text-center text-5xl m-2">
                   Expert Instructors
@@ -106,7 +105,7 @@ export default function Start() {
             </div>
           </div>
           <div className="flex-row-reverse flex grid-cols-2 p-2">
-            <div className="w-half p-5 flex h-52 bg-gray-700 items-center text-center place-items-center text-white">
+            <div className="w-half p-5 flex rounded-lg h-52 bg-gray-700 items-center text-center place-items-center text-white">
               <div>
                 <h3 className="w-full text-center text-5xl m-2">
                   Expert Instructors
