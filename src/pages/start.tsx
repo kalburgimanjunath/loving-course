@@ -2,7 +2,9 @@ export default function Start() {
   const Hero = () => {
     return (
       <section className="bg-black text-white p-20">
-        <h3 className="text-5xl">Master the Power of React Beginner Course</h3>
+        <h3 className="text-5xl">
+          Hello Master the Power of React Beginner Course
+        </h3>
         <h4 className="font-bold text-xl">
           Our React Course is your gateway to becoming a proficient React
           developer. Learn to build dynamic and interactive web applications
